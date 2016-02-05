@@ -1,0 +1,10 @@
+{
+  "name": "language-yaml",
+  "version": "0.1.0",
+  "description": "YAML language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-yaml.git"
+  },
+  "license": "MIT"
+}
